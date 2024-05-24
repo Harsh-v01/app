@@ -1,10 +1,6 @@
 # rider_app
 
 A new Flutter application.
-manini commit 1
-diya commit 1
-rucha commit 1
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
